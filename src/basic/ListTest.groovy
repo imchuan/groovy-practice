@@ -33,3 +33,7 @@ println b
 // 删除一个元素
 def c = b - [66]
 println c
+
+println "逆序方法获取列表-->"
+def d = [1, 2, 3, 4, 5]
+println d.reverse()
